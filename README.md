@@ -23,15 +23,11 @@
 </div> 
 
 ## Github Stats 
-<a href="https://ay.link/devlog" target="_blank">
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHercy&theme=tokyonight&hide=batchfile">
-</a>
-<a href="https://ay.link/devlog" target="_blank">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheHercy&theme=tokyonight">
-</a>
-<a href="https://ay.link/devlog" target="_blank">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheHercy&theme=tokyonight">
-</a>
+
 
 ## Connect with me  
 <div align="center">
