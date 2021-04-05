@@ -3,7 +3,7 @@
 
 - 📘 I am dealing with programming languages such as HTML5, CSS3, JavaScript.
 - 📕 I am also developing custom bots for Discord with Node.JS.
-- 📗 And I will share some bot codes and important information for you on this Github account.
+- 📗 And I will share some bot codes and important information for you on this Github account. <br>
 `I do not do what I describe here professionally, I just share the information I know with you.`
 
 ## Languages:
