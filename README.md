@@ -1,3 +1,1 @@
-# I'm Fucker Takır Takır
-
-# su içmeyi severim
+# Token("ODIyMTc3MDE3MDg4MDQ5MTk2.YFOeBA.XhKz7J0Q4AjvCUQQBBjOdUZvnoU")
