@@ -1,5 +1,3 @@
-### <div align="center">TheHercy</div>  
+# I'm Fucker Takır Takır
 
-<br/>  
-
-
+# su içmeyi severim
