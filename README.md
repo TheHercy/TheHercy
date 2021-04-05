@@ -13,14 +13,8 @@
 </p>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TheHercy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<details>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=TheHercy&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHercy&theme=tokyonight&hide=batchfile">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheHercy&theme=tokyonight">
-</details>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=TheHercy&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHercy&theme=tokyonight&hide=batchfile">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheHercy&theme=tokyonight">
 
 ## Connect with me  
 <div align="center">
