@@ -1,8 +1,9 @@
-# TheHercy
 
+# 👋 Hi everyone! I'm Hercy
 
-
-
+- 📘 I am dealing with programming languages such as HTML5, CSS3, JavaScript.
+- 📕 I am also developing custom bots for Discord with Node.JS.
+- 📗 And I will share some bot codes and important information for you on this Github account.
 
 ## Languages:
 <p>
